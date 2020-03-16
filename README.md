@@ -4,7 +4,7 @@ Ce dépot contient un serveur web / API en Node.js.
 Ce serveur répond "Hello World" quand on envoie une requête HTTP GET à la racine.
 
 ### Installation et exécution
-$ git clone https://github.com/adrienjoly/node-esgi.git
+$ git clone https://github.com/tw0hour/nodejs.git
 $ cd node-esgi
 $ npm install # pour installer les dépendances
 $ npm start # pour exécuter le serveur
