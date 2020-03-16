@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tw0hour/nodejs/issues"
   },
-  "homepage": "https://github.com/tw0hour/nodejs#readme"
+  "homepage": "https://github.com/tw0hour/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
