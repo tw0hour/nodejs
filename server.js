@@ -2,9 +2,10 @@
 const express = require('express')
 const app = express()
 const PORT = process.env.PORT || 3000
-var nom = request.params.p1;
+
 
 app.get('/', function (req, res) {
+  var nom = req.params.p1
   if(res.query.nom){
     res.send("Bonjour, "+req.quey.nom)
   }
