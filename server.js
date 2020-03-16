@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000
 
 
 app.get('/', function (req, res) {
-  var nom = req.params.p1
+  var nom = req.params.hello
   if(res.query.nom){
     res.send("Bonjour, "+req.query.nom)
   }
