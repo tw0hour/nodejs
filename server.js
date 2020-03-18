@@ -62,4 +62,4 @@ app.listen(PORT, function () {
 function readValuesFromFile() {
   return readFile('réponses.json', { encoding: 'utf8' })
     .then(reponses => JSON.parse(reponses))
-}
+} 
