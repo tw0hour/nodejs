@@ -1,3 +1,5 @@
-node_modules 
-server(sync).js 
+node_modules
+réponses.json
+.env
 server(async).js 
+server(sync).js 

@@ -1,5 +1,5 @@
 {
-  "name": "nodejs",
+  "name": "esgi-node",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tw0hour/nodejs.git"
+    "url": "git+https://github.com/adrienjoly/node-esgi.git"
   },
-  "author": "abdallah",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tw0hour/nodejs/issues"
+    "url": "https://github.com/adrienjoly/node-esgi/issues"
   },
-  "homepage": "https://github.com/tw0hour/nodejs#readme",
+  "homepage": "https://github.com/adrienjoly/node-esgi#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "^3.5.5"
